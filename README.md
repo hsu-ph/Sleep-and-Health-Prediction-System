@@ -1,4 +1,3 @@
-# CSYE7200-Final-Project
 # Sleep-and-Health-Prediction-System
 
 
